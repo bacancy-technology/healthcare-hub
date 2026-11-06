@@ -75,8 +75,8 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 | Pricing | Buy once or subscribe monthly. Full refund within 3 months. |
 
 ## For developers
-- [Synthetic FHIR R4 sample data and API examples](https://github.com/bacancy-technology/healthcare-fhir-samples) (Apache 2.0)
 - [BacancyCare EHR integration guide](https://github.com/bacancy-technology/healthcare-ehr/blob/main/docs/integrations.md)
+
 
 ## All BacancyCare repositories
 [Browse every repo tagged bacancy-healthcare](https://github.com/bacancy-technology?q=topic:bacancy-healthcare)
