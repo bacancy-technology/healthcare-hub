@@ -1,34 +1,58 @@
-# Bacancy Healthcare: Product Library
+# BacancyCare: Healthcare Product Library
 
-Technical documentation for Bacancy's healthcare software. Product details, pricing and demos are on [bacancycare.com](https://bacancycare.com?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=top).
+Technical documentation and developer resources for BacancyCare, Bacancy Technology's healthcare platform: one EHR and 18 AI agents that run on servers you control.
 
-## Products
+**Products, pricing and demos:** [bacancycare.com](https://bacancycare.com?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=top) · **Live EHR demo:** [healthsolution.gobacancy.com](https://healthsolution.gobacancy.com/)
+
+## Core platform
 
 | Product | Product page | Technical docs |
 |---|---|---|
-| EHR | [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=hub&utm_campaign=ehr) | [healthcare-ehr](https://github.com/bacancy-technology/healthcare-ehr) |
-| Clinical Documentation System | [bacancycare.com/[cds-page]](https://bacancycare.com/[cds-page]?utm_source=github&utm_medium=hub&utm_campaign=cds) | [healthcare-clinical-documentation-system](https://github.com/bacancy-technology/healthcare-clinical-documentation-system) |
-| Patient Health Record | [bacancycare.com/[pahr-page]](https://bacancycare.com/[pahr-page]?utm_source=github&utm_medium=hub&utm_campaign=pahr) | [healthcare-patient-health-record](https://github.com/bacancy-technology/healthcare-patient-health-record) |
-| Chronic Disease Management | [bacancycare.com/[cdms-page]](https://bacancycare.com/[cdms-page]?utm_source=github&utm_medium=hub&utm_campaign=cdms) | [healthcare-chronic-disease-management-system](https://github.com/bacancy-technology/healthcare-chronic-disease-management-system) |
-| [HBIS name] | [link] | [repo link] |
-| [MHS name] | [link] | [repo link] |
-| [PPS name] | [link] | [repo link] |
-| [HCVC name] | [link] | [repo link] |
-| [HFD name] | [link] | [repo link] |
+| **BacancyCare EHR**: patients, doctors, labs and pharmacies in one system | [bacancycare.com/ehr](https://bacancycare.com/ehr?utm_source=github&utm_medium=hub&utm_campaign=ehr) | [healthcare-ehr](https://github.com/bacancy-technology/healthcare-ehr) |
+| Pharmacist & Lab Operations | [Product page](https://bacancycare.com/pharmacy-lab-operations?utm_source=github&utm_medium=hub&utm_campaign=pharmacy-lab) | Coming soon |
+| Clinical Document Solutions | [Product page](https://bacancycare.com/clinical-document-solutions?utm_source=github&utm_medium=hub&utm_campaign=clinical-docs) | Coming soon |
+
+## AI agents
+
+| Agent | What it does | Product page |
+|---|---|---|
+| AI Receptionist | Answers calls, chats and texts to book, move or cancel visits | [Link](https://bacancycare.com/ai-receptionist?utm_source=github&utm_medium=hub&utm_campaign=ai-receptionist) |
+| Prior Authorization Agent | Gets insurer approvals without staff chasing portals | [Link](https://bacancycare.com/prior-authorization-agent?utm_source=github&utm_medium=hub&utm_campaign=prior-auth) |
+| Ambient Scribe Agent | Turns the visit conversation into a note ready to sign | [Link](https://bacancycare.com/ambient-scribe?utm_source=github&utm_medium=hub&utm_campaign=ambient-scribe) |
+| Medical Coding & Charge Capture | Suggests ICD-10, CPT and HCPCS codes and finds unbilled care | [Link](https://bacancycare.com/medical-coding-charge-capture?utm_source=github&utm_medium=hub&utm_campaign=coding) |
+| Claim Denial Management | Sorts denials, fixes simple errors and drafts appeals | [Link](https://bacancycare.com/claim-denial-management?utm_source=github&utm_medium=hub&utm_campaign=denials) |
+| Patient Intake & Eligibility | Collects patient details and checks insurance before the visit | [Link](https://bacancycare.com/patient-intake-eligibility?utm_source=github&utm_medium=hub&utm_campaign=intake) |
+| Patient Access & Scheduling | Scheduling across phone, web, SMS and WhatsApp for multi-location groups | [Link](https://bacancycare.com/patient-access-scheduling?utm_source=github&utm_medium=hub&utm_campaign=scheduling) |
+| Referral Management | Reads incoming referrals and tracks them until the loop closes | [Link](https://bacancycare.com/referral-management?utm_source=github&utm_medium=hub&utm_campaign=referrals) |
+| RPM Triage Agent | Watches home device readings and alerts nurses | [Link](https://bacancycare.com/rpm-triage-agent?utm_source=github&utm_medium=hub&utm_campaign=rpm) |
+| Care Gap & Quality Measures | Finds overdue patients and supports HEDIS, MIPS and Star Ratings | [Link](https://bacancycare.com/care-gap-quality-measures?utm_source=github&utm_medium=hub&utm_campaign=care-gap) |
+| Discharge Follow-Up | Checks in after discharge and escalates warning signs | [Link](https://bacancycare.com/discharge-follow-up?utm_source=github&utm_medium=hub&utm_campaign=discharge) |
+| Medication Reconciliation | Keeps medication lists accurate across EHR, pharmacy and patient | [Link](https://bacancycare.com/medication-reconciliation?utm_source=github&utm_medium=hub&utm_campaign=med-rec) |
+| Credentialing & Payer Enrollment | Credentials providers and enrolls them with payers | [Link](https://bacancycare.com/credentialing-payer-enrollment?utm_source=github&utm_medium=hub&utm_campaign=credentialing) |
+| Clinical Trial Patient Matching | Finds trial-eligible patients from full records | [Link](https://bacancycare.com/clinical-trial-matching?utm_source=github&utm_medium=hub&utm_campaign=trial-matching) |
+| Patient Billing Assistant | Explains bills, sets payment plans and checks financial assistance | [Link](https://bacancycare.com/patient-billing-assistant?utm_source=github&utm_medium=hub&utm_campaign=billing) |
+| HIPAA Compliance Monitoring | Monitors record access and data sharing, with audit-ready reports | [Link](https://bacancycare.com/hipaa-compliance-monitoring?utm_source=github&utm_medium=hub&utm_campaign=hipaa-monitoring) |
+
+## Platform facts
+| | |
+|---|---|
+| Deployment | Your own servers or a private cloud in your name. Bacancy holds no patient records. |
+| Standards | FHIR R4 (USCDI v3), HL7v2, REST APIs |
+| Integrations | Epic, Oracle Health (Cerner), eClinicalWorks, athenahealth, Meditech, Allscripts and more |
+| Compliance | HIPAA and HITECH aligned, AES-256 encryption, PHI audit logging |
+| Typical go-live | 2–4 weeks for a single clinic |
 
 ## For developers
-- [FHIR R4 sample data and API examples](https://github.com/bacancy-technology/healthcare-fhir-samples) (Apache 2.0)
+- [Synthetic FHIR R4 sample data and API examples](https://github.com/bacancy-technology/healthcare-fhir-samples) (Apache 2.0)
+- [BacancyCare EHR integration guide](https://github.com/bacancy-technology/healthcare-ehr/blob/main/docs/integrations.md)
 
-## Standards we work with
-FHIR R4 · HL7 v2 · SMART on FHIR · LOINC · SNOMED CT · RxNorm
-
-## All healthcare repositories
+## All BacancyCare repositories
 [Browse every repo tagged bacancy-healthcare](https://github.com/bacancy-technology?q=topic:bacancy-healthcare)
 
 ## About Bacancy Technology
 Bacancy Technology is an AI-powered consulting and software development company for AI, Data, Healthcare, and Finance enterprises. Since 2011, Bacancy has been trusted by 500+ enterprises across 30+ countries, with a 98% client retention rate. It has offices across the US, UK, India, and Australia. Bacancy Technology is certified to ISO/IEC 27001:2022.
 
-**[Visit bacancycare.com](https://bacancycare.com?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=bottom)**
+**[Visit bacancycare.com](https://bacancycare.com?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=bottom)** · solutions@bacancy.com
 
 ---
-Documentation licensed CC BY 4.0.
+Documentation licensed CC BY 4.0. BacancyCare is a product of Bacancy Technology.
