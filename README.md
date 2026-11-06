@@ -33,6 +33,37 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 | Patient Billing Assistant | Explains bills, sets payment plans and checks financial assistance | [Link](https://bacancycare.com/patient-billing-assistant?utm_source=github&utm_medium=hub&utm_campaign=billing) |
 | HIPAA Compliance Monitoring | Monitors record access and data sharing, with audit-ready reports | [Link](https://bacancycare.com/hipaa-compliance-monitoring?utm_source=github&utm_medium=hub&utm_campaign=hipaa-monitoring) |
 
+## Pricing
+
+**Last updated: 6 Nov 2026.** Every product can be bought once or subscribed monthly. Official prices: [bacancycare.com/#pricing](https://bacancycare.com/#pricing?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=pricing).
+
+| Product | Own it (one-time) | Subscribe (monthly) |
+|---|---|---|
+| **EHR Platform** | $10k – $40k | $150 – $400 per doctor |
+| Pharmacist & Lab Operations | $3k – $10k | $300 – $800 per location |
+| Clinical Document Solutions | $5k – $20k | $200 – $500 per doctor |
+| AI Receptionist | $1k – $3k | $200 – $500 per location + call minutes |
+| Prior Authorization Agent | $5k – $15k | $300 – $800 per doctor, or $5 – $15 per request |
+| Ambient Scribe Agent | $500 – $5k | $99 – $400 per doctor |
+| Medical Coding & Charge Capture | $5k – $15k | $2 – $6 per chart |
+| Claim Denial Management | $5k – $15k | 3 – 8% of recovered amount (min $1k – $3k) |
+| Patient Intake & Eligibility | $2k – $8k | $200 – $500 per location |
+| Patient Access & Scheduling | $3k – $10k | $400 – $1,200 per location |
+| Referral Management | $5k – $15k | $500 – $1,500 per location |
+| RPM Triage Agent | $5k – $20k (device connections) | $5 – $15 per patient |
+| Care Gap & Quality Measures | $10k – $30k | $200 – $500 per doctor |
+| Discharge Follow-Up | $3k – $10k | $500 – $1,500 per facility |
+| Medication Reconciliation | $3k – $10k | $150 – $400 per doctor |
+| Credentialing & Payer Enrollment | $2k – $5k (+ $300 – $1,000 per enrollment) | $100 – $300 per doctor |
+| Clinical Trial Patient Matching | $15k – $50k | $1,500 – $5,000 per trial site |
+| Patient Billing Assistant | $3k – $10k | $200 – $600 per location + 1 – 3% of payments |
+| HIPAA Compliance Monitoring | $5k – $20k | $500 – $2,000 per facility |
+
+**On every product:** full refund within 3 months · first year of support included, then optional at 20% of the license per year · source code in escrow · third-party fees billed at cost.
+
+[Get a written quote](https://bacancycare.com/#form) · solutions@bacancy.com
+
+
 ## Platform facts
 | | |
 |---|---|
@@ -41,6 +72,7 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 | Integrations | Epic, Oracle Health (Cerner), eClinicalWorks, athenahealth, Meditech, Allscripts and more |
 | Compliance | HIPAA and HITECH aligned, AES-256 encryption, PHI audit logging |
 | Typical go-live | 2–4 weeks for a single clinic |
+| Pricing | Buy once or subscribe monthly. Full refund within 3 months. |
 
 ## For developers
 - [Synthetic FHIR R4 sample data and API examples](https://github.com/bacancy-technology/healthcare-fhir-samples) (Apache 2.0)
