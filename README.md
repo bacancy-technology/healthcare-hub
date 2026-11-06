@@ -77,10 +77,6 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 ## For developers
 - [BacancyCare EHR integration guide](https://github.com/bacancy-technology/healthcare-ehr/blob/main/docs/integrations.md)
 
-
-## All BacancyCare repositories
-[Browse every repo tagged bacancy-healthcare](https://github.com/bacancy-technology?q=topic:bacancy-healthcare)
-
 ## About Bacancy Technology
 Bacancy Technology is an AI-powered consulting and software development company for AI, Data, Healthcare, and Finance enterprises. Since 2011, Bacancy has been trusted by 500+ enterprises across 30+ countries, with a 98% client retention rate. It has offices across the US, UK, India, and Australia. Bacancy Technology is certified to ISO/IEC 27001:2022.
 
