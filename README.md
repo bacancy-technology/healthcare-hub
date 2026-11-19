@@ -35,7 +35,7 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 
 ## Pricing
 
-**Last updated: 6 Nov 2026.** Every product can be bought once or subscribed monthly. Official prices: [bacancycare.com/#pricing](https://bacancycare.com/#pricing?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=pricing).
+**Last updated: 19 Nov 2026.** Every product can be bought once or subscribed monthly. Official prices: [bacancycare.com/#pricing](https://bacancycare.com/#pricing?utm_source=github&utm_medium=hub&utm_campaign=hub&utm_content=pricing).
 
 | Product | Own it (one-time) | Subscribe (monthly) |
 |---|---|---|
@@ -45,7 +45,7 @@ Technical documentation and developer resources for BacancyCare, Bacancy Technol
 | AI Receptionist | $1k – $3k | $200 – $500 per location + call minutes |
 | Prior Authorization Agent | $5k – $15k | $300 – $800 per doctor, or $5 – $15 per request |
 | Ambient Scribe Agent | $500 – $5k | $99 – $400 per doctor |
-| Medical Coding & Charge Capture | $5k – $15k | $2 – $6 per chart |
+| Medical Coding & Charge Capture | $5k – $15k | $2 – $6 per chart, billed monthly |
 | Claim Denial Management | $5k – $15k | 3 – 8% of recovered amount (min $1k – $3k) |
 | Patient Intake & Eligibility | $2k – $8k | $200 – $500 per location |
 | Patient Access & Scheduling | $3k – $10k | $400 – $1,200 per location |
